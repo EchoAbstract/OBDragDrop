@@ -14,7 +14,7 @@ Features:
 
 Installation
 ============
-Simply drag the files into your project and go! No need to mess with library paths, target dependencies, etc
+Simply drag the files into your project and go! No need to mess with library paths, target dependencies, etc.
 
 
 
